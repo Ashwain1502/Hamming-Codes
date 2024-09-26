@@ -25,11 +25,3 @@ Server side commands:
   ./ser
 ```
 
-## CONTRIBUTERS
-
-- [JAHEER KHAN ](https://www.github.com/jaheerkhan01)
-- [SHUAIB JAWID](https://www.github.com/ShubJas)
-- [SANKET BABAR](https://www.github.com/)
-
-
-
